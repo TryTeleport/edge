@@ -1,3 +1,3 @@
 # Teleport Edge.
 
-Telport basic interfaces.
+Telport base interfaces.
